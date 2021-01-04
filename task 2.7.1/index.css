@@ -1,0 +1,50 @@
+.d1{
+	background-color: blueviolet;
+	color:white;
+	height:90px;
+	width:150px;
+	position:static;
+}
+.d2{
+	background-color: darkred;
+	color:white;
+	height:90px;
+	width:150px;
+	position:relative;
+}
+.d3{
+	background-color: peru;
+	color:white;
+	height:90px;
+	width:150px;
+	position:relative;
+	bottom:35px;
+	left:35px;
+}
+
+.d4{
+	background-color: indianred;
+	color:white;
+	height:480px;
+	width:800px;
+    position:relative;
+
+}
+.d5{
+	background-color: indigo;
+	color:white;
+	height:240px;
+	width:400px;
+	position:absolute;
+	right:0;
+	top:150px;
+}
+.d6{
+	background-color: forestgreen;
+	color:white;
+	height:100px;
+	width:100px;
+	position:fixed;
+	bottom:0;
+	right:0;
+}
