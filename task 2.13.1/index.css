@@ -1,0 +1,28 @@
+
+.main{
+	border: 1px solid forestgreen;
+	background-color:forestgreen;
+	display:flex;
+}
+.m1{
+	background-color:aqua;
+}
+.m2{
+	background-color:darkgray;
+}
+.p{
+	background-color:bisque;
+	width:350px;
+	height:85px;
+	float:left;
+}
+.txt{
+	width:50%;
+}
+img{
+	width:50%;
+	height: 50%;
+}
+.f1{
+	display:flex;
+}

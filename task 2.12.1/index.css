@@ -1,0 +1,21 @@
+
+.main{
+	border: 1px solid forestgreen;
+	background-color:aqua;
+	display:flex;
+}
+.m1{
+	background-color:aqua;
+}
+.m2{
+	background-color:darkgray;
+	float:right;
+	margin-right:5px;
+}
+.p{
+	background-color:bisque;
+	margin-right:2px;
+	width:500px;
+	height:100px;
+	float:left;
+}
