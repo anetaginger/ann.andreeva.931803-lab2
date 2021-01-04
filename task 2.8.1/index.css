@@ -9,18 +9,18 @@
 }
 
 .right{
-	background-color: #a7a4a4f3;
-	height:200px;
+	background-color: darkgray;
+	height:230px;
 }
 
 .up{
-	background-color:#ffe5c0;
+	background-color:bisque;
 	height:90px;
 	width:200px;
 }
 .down{
-	background-color:rgb(96, 234, 252);
-	height:110px;
+	background-color:aqua;
+	height:140px;
 	width:200px;
 	
 }
@@ -31,7 +31,7 @@ ul{
 	
 }
 .f{
-	background-color:rgba(38, 168, 34, 0.952);
+	background-color:limegreen;
 	height:60px;
 	position:fixed;
 	bottom:0;
